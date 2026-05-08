@@ -55,11 +55,11 @@ Any modern IDE (e.g., IntelliJ IDEA, Eclipse)
 ### Steps to Install:
 1. **Clone the repository**
 ```bash
-git clone https://github.com/w5felix/NovaStar.git
+git clone https://github.com/astridhu123/Crypto-Currency-Trading-Platform.git
 ```
 2. **Navigate to the project directory**
 ```bash
-cd NovaStar
+cd Crypto-Currency-Trading-Platform
 ```
 
 ### Technical Requirements
